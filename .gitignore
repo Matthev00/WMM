@@ -2,3 +2,19 @@ LAB4/obrazy_testowe
 *.zip
 LAB5/monochrome
 LAB5/color
+LAB5/out_images/q005.jpg
+LAB5/out_images/q010.jpg
+LAB5/out_images/q020.jpg
+LAB5/out_images/q030.jpg
+LAB5/out_images/q040.jpg
+LAB5/out_images/q050.jpg
+LAB5/out_images/q060.jpg
+LAB5/out_images/q070.jpg
+LAB5/out_images/q090.jpg
+LAB5/out_images/q100.jpg
+.gitignore
+LAB5/Podolec-WMM-lab5.pdf
+LAB5/Podolec-lab05.py
+*.docx
+LAB5/Sprawozdanie Laboratorium WMM-LAB5.docx
+LAB4/WMM_Lab_przetwarzanie_obrazow.py
